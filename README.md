@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenCtheDev
 - 👀 I’m interested in wrtiting code and keeping it robust with failsafe tests
-- 🌱 I’m currently learning Web Dev through Thinkful
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on backend maintenance, and test files.
 - 📫 How to reach me ...
 
